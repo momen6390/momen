@@ -49,5 +49,5 @@
 
 ---
 
-*“A mathematical nerd who invaded our beautiful world of finance.”*
+*“Quants-A mathematical nerd who invaded our beautiful world of finance.”*
 
