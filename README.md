@@ -33,10 +33,13 @@
 
 ---
 
-### 🎓 Academic Focus
+### 🎓 Academic Background
 
-- MSc Computational Finance (2025) – [Planned]  
-- Building strong foundations in quantitative modeling, AI, and macroeconomic analysis.
+- 🎯 **MSc Computational Finance** *(Planned, 2026 Entry)*  
+  Focus: Quant modeling, AI, financial engineering, and macroeconomic data analysis
+
+- 🎓 **MSc Data Science 2023  – University of Essex**  
+  Focus: Machine Learning, Statistics, SQL, Python, and Computational Finance modules
 
 ---
 
